@@ -1,0 +1,14 @@
+.body{
+ 
+margin: 0;
+padding: 0;
+  background: linear-gradient(to right, #e6e6fa, #f0f0f0);
+
+}
+.album_list{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}

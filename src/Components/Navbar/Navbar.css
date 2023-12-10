@@ -1,0 +1,20 @@
+.main {
+  display: flex;
+  height: 55px;
+  color: yellow;
+  font-size: large;
+  background: linear-gradient(to right, #3498db, #f0f0f0);
+  align-items: center;
+}
+.main span{
+  margin-left: 20px;
+}
+.btn button{
+margin-right: 10px;
+}
+.btn :hover {
+  background: black;
+  color: lightyellow;
+  transform: scale(1.2);
+  gap: 35px;
+}
