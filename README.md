@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### Hosted On
-open [https://worst-devolper.netlify.app/Albums/List](https://worst-devolper.netlify.app/Albums/List) to view it in your browser
+open [https://worst-developer.netlify.app](https://worst-developer.netlify.app) to view it in your browser
 
 ## Features
 
